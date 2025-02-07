@@ -5,5 +5,6 @@ A supply chain transforms raw materials and components into a finished product t
 The components of the dashboard include- Sales, Orders, Delivery Status, Customers and Insights.
 
 PROJECT DASHBOARD PBIX FILE : https://drive.google.com/file/d/1yjHL7LNkWGsVZPNseAwYBIhjSDnkS4px/view?usp=sharing
+
 PROJECT DASHBOARD PDF FILE : https://drive.google.com/file/d/19h6se9pqKjMmYioqSMvrHK9c0dx3zppr/view?usp=sharing
 
